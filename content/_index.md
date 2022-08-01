@@ -3,9 +3,6 @@ title: 直播电视详细介绍
 type: book # Do not modify.
 toc: true
 
-cover:
-  image: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: NASA
 ---
 
 ## 直播电视介绍
